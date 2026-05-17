@@ -23,6 +23,7 @@ The honest answer is: **not necessarily.** Sales might have grown anyway due to 
 - Isolates true causal lift by removing the counterfactual trend
 - **Result:** $4,260 monthly causal lift (p = 0.02, statistically significant)
 - 95% CI entirely positive [$645, $7,876] - confirms real effect
+- Assumption - Without the campaign, treatment and control regions would have grown at the same rate. 
 
 ### 2. Revenue Decomposition - Marketing Mix Modeling (MMM)
 - Builds a Ridge regression model on monthly aggregated data
